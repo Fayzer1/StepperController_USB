@@ -33,6 +33,15 @@ STM L297D, используется для формирования сигнал
 <img width="827" height="561" alt="image" src="https://github.com/user-attachments/assets/382fd1c5-452d-4123-96d6-e2f10a6e2024" />
 <img width="827" height="678" alt="image" src="https://github.com/user-attachments/assets/839e78ce-0b72-4fe7-a30e-221b563c397e" />
 
+##### 3D вид электронной ячейки (из KiCad)
+
+<img width="750" height="598" alt="image" src="https://github.com/user-attachments/assets/dde303e6-48c6-4b10-98c1-f281ca9de6d0" />
+
+<img width="716" height="569" alt="image" src="https://github.com/user-attachments/assets/029d7ef5-d922-4a60-a835-44378799e280" />
+
+
+<img width="895" height="585" alt="image" src="https://github.com/user-attachments/assets/3e388384-aaa0-4268-b682-4550952afb5b" />
+
 
 ### 8. Моделирование теплового режима
 <img width="927" height="911" alt="image" src="https://github.com/user-attachments/assets/b859d751-1c82-46b2-99cd-abb2d25456d1" />
